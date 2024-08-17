@@ -23,6 +23,6 @@ Publications
 
 Major Awards 
 ======
-1.  **first place** in Track #5: Video Grounding (Animal Kingdom dataset) of the Multi-Modal Video Reasoning andAnalyzing Competition at the ICME (International Conference on Multimedia and Exposition) 2024
+1.  <span style="color:red">**first place**</span> in Track #5: Video Grounding (Animal Kingdom dataset) of the Multi-Modal Video Reasoning andAnalyzing Competition at the ICME (International Conference on Multimedia and Exposition) 2024
 2.  Xiamen University of Technology Scholarship, 2022-2022
 3.  Xiamen University of Technology Scholarship, 2020-2021
