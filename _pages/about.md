@@ -11,8 +11,8 @@ I am currently a second-year M.S student in Big Data and Internet of Things Prog
 
 My recent research interests are in Video Understanding, Multi-Modal and AIGC.
 
-09/2023 -- Now: M.S in School of Applied Science, Macao Polytechnic University, Macao, China
-09/2019 -- 06/2023: B.S. in School of Automotive and Mechanical Engineering, Xiamen University of Technology, Xiamen, China
+09/2023 -- Now: M.S in Big Data and IoT, sSchool of Applied Science, Macao Polytechnic University, Macao, China
+09/2019 -- 06/2023: B.S. in Vehicle engineering，School of Automotive and Mechanical Engineering, Xiamen University of Technology, Xiamen, China
 
 Publications
 ======
