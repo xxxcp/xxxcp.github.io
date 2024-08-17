@@ -15,7 +15,6 @@ My recent research interests are in Video Understanding, Multi-Modal and AIGC.
 09/2019 -- 06/2023: B.S. in School of Automotive and Mechanical Engineering, Xiamen University of Technology, Xiamen, China
 
 Publications
-Conference
 ======
 Chengpeng Xiong, Zhengxuan Chen, Nuoer Long, Kin-Seong Un, Zhuolin Li, Shaobin Chen, Tao Tan, Chan-Tong Lam, Yue Sun 
 
