@@ -24,5 +24,5 @@ _IEEE International Conference on Multimedia and Expo (ICME), 2024_
 
 Major Awards 
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1.  **first place** in Track #5: Video Grounding (Animal Kingdom dataset) of the Multi-Modal Video Reasoning andAnalyzing Competition at the ICME (International Conference on Multimedia and Exposition) 2024
 
