@@ -28,3 +28,9 @@ Major Awards
 1.  <span style="color:red">**First place**</span> in Track #5: Video Grounding (Animal Kingdom dataset) of the Multi-Modal Video Reasoning andAnalyzing Competition at the ICME (International Conference on Multimedia and Exposition) 2024
 2.  Xiamen University of Technology Scholarship, 2022-2022
 3.  Xiamen University of Technology Scholarship, 2020-2021
+4.  National First Prize in the Formula Student Combustion China(FSCC) 2022
+5.  National Second Prize in the Formula Student Electric China(FSEC) 2022
+6.  National First Prize in the Formula Student Combustion China(FSCC) 2021
+7.  National Second Prize in the Formula Student Electric China(FSEC) 2021
+8.  National Second Prize in the Formula Student Combustion China(FSCC) 2020
+9.  National Third Prize in the Formula Student Electric China(FSEC) 2021
