@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a second-year M.S student in Big Data and Internet of Things Program, School of Applied Science, Macao Polytechnic University, advised by Prof. Tao Tan and Prof. Yue Sun .
 
-My recent research interests are in **Video Understanding**, **Multi-Modal** and LLM.
+My recent research interests are in **Video Retrieval**，**Video Understanding**, **Vision and language**,**Multi-Modal** and **LLM**.
 
 09/2023 -- Now: M.S in Big Data and IoT, sSchool of Applied Science, Macao Polytechnic University, Macao, China  
 
