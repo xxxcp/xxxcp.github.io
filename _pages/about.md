@@ -17,7 +17,7 @@ My recent research interests are in **Video Understanding**, **Multi-Modal** and
 
 Publications
 ======
-1. *Chengpeng Xiong, Zhengxuan Chen, Nuoer Long, Kin-Seong Un, Zhuolin Li, Shaobin Chen, Tao Tan, Chan-Tong Lam, Yue Sun*  
+1. *<span style="color:yellow">**Chengpeng Xiong**</span>, Zhengxuan Chen, Nuoer Long, Kin-Seong Un, Zhuolin Li, Shaobin Chen, Tao Tan, Chan-Tong Lam, Yue Sun*  
    **Enhancing Video Grounding with Dual-path Modality Fusion on Animal Kingdom Datasets**  
    _IEEE International Conference on Multimedia and Expo (ICME), 2024_  
 2. *Nuoer Long, Kin-Seong Un, Chengpeng Xiong, Zhuolin Li, Shaobin Chen, Tao Tan, Chan-Tong Lam, Yue Sun*  
