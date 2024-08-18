@@ -20,7 +20,7 @@ Publications
 1. *<span style="color:orange">**Chengpeng Xiong**</span>, Zhengxuan Chen, Nuoer Long, Kin-Seong Un, Zhuolin Li, Shaobin Chen, Tao Tan, Chan-Tong Lam, Yue Sun*  
    **Enhancing Video Grounding with Dual-path Modality Fusion on Animal Kingdom Datasets**  
    _IEEE International Conference on Multimedia and Expo (ICME), 2024_  
-2. *Nuoer Long, Kin-Seong Un, Chengpeng Xiong, Zhuolin Li, Shaobin Chen, Tao Tan, Chan-Tong Lam, Yue Sun*  
+2. *Nuoer Long, Kin-Seong Un, <span style="color:orange">**Chengpeng Xiong**</span>, Zhuolin Li, Shaobin Chen, Tao Tan, Chan-Tong Lam, Yue Sun*  
    **A MULTIMODAL BEHAVIOR RECOGNITION NETWORK WITH INTERCONNECTED ARCHITECTURES**  
    _IEEE International Conference on Multimedia and Expo (ICME), 2024_  
 
