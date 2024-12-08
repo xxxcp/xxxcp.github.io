@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<img src="2.jpg" width="300"/>
+
 
 I am currently a second-year M.S student in Big Data and Internet of Things Program, School of Applied Science, Macao Polytechnic University, advised by Prof. Tao Tan and Prof. Yue Sun .
 
