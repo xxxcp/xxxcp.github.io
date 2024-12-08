@@ -22,12 +22,13 @@ repository               : "xxxcp/xxxcp.github.io"
 author:
   # Biographic information
   avatar           : "me.png"
-  name             : "CHENGPENG XIONG"
+  name             : "CHENGPENG XIONG (熊承鹏) "
   pronouns         : # example: "she/her"  
   bio              : "Currently in my second year of master's"
   location         : "Macao China"
   employer         : "Macao Polytechnic University"
   uri              : # URL
+  phone            : '+86 18059232149/+853 68912502'
   email            : "xiongchengpeng6@gmail.com" 
 
   # Academic websites
