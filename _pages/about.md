@@ -38,4 +38,5 @@ Major Awards
 11. National Third Prize in the Formula Student Electric China (FSEC), 2021
 
 <img src="2.jpg" width="300"/>
+<img src="1.jpg" width="300"/>
 
